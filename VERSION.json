@@ -1,1 +1,4 @@
-{ "latest": "4.8", "notes": "Self-contained install, user-chosen workspace, first-run setup" }
+{
+  "latest": "4.9",
+  "notes": "Fix: first-run setup runs on fresh installs"
+}
