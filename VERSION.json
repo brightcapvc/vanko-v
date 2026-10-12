@@ -1,4 +1,4 @@
 {
-  "latest": "4.12",
-  "notes": "What's-new panel, image-only decks, and a broken attachment download"
+  "latest": "4.13",
+  "notes": "Works in cloud sessions: attachments from your folder, Lenz via its connector, tokens kept out of the conversation"
 }
