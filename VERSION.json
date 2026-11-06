@@ -1,4 +1,4 @@
 {
-  "latest": "4.13",
-  "notes": "Works in cloud sessions: attachments from your folder, Lenz via its connector, tokens kept out of the conversation"
+  "latest": "4.14",
+  "notes": "Attachments through the Atlassian MCP connector, a diagnostics report, a connector check every session, and fairer founder-history rules"
 }
